@@ -1,0 +1,60 @@
+<!DOCTYPE html><html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LCE RECORDS - Brice L C E</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: url('https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4') no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+      text-align: center;
+    }
+    header, footer {
+      padding: 20px;
+      background-color: rgba(0, 0, 0, 0.6);
+    }
+    main {
+      padding: 40px 20px;
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+    section {
+      margin: 40px 0;
+    }
+    h1, h2 {
+      margin: 10px 0;
+    }
+    .button {
+      background: white;
+      color: #ff0033;
+      padding: 10px 20px;
+      border-radius: 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .audio-player {
+      margin-top: 20px;
+    }
+    @media (max-width: 600px) {
+      h1 { font-size: 1.8em; }
+      h2 { font-size: 1.4em; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>LCE RECORDS</h1>
+    <p>Le son de Brice L C E</p>
+  </header>  <main>
+    <section id="bio">
+      <h2>À propos</h2>
+      <p>Brice L C E est un artiste engagé et passionné, créant une musique authentique, forte et vibrante.</p>
+    </section><section id="musique">
+  <h2>Derniers sons</h2>
+  <p>Écoutez notre dernier titre ci-dessous :</p>
+  <div class="audio-player">
+    <audio controls>
+      <source src="musique.mp3" type="
+
