@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Brice L C E - Music Experience</title>
+  <title>BRICE L C E - Music Experience</title>
   <style>
     body {
       margin: 0;
@@ -44,7 +44,7 @@
 </head>
 <body>
   <header>
-    <div>Brice L C E <span class="crown">👑</span></div>
+    <div>BRICE L C E <span class="crown">👑</span></div>
   </header>
 
   <div class="content">
