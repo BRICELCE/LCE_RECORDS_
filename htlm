@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>LCE RECORDS - Brice L C E</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(135deg, #ff0033, #ff6600, #ffcc00);
+      color: white;
+      text-align: center;
+    }
+    header, footer {
+      padding: 20px;
+      background-color: rgba(0, 0, 0, 0.3);
+    }
+    main {
+      padding: 40px 20px;
+    }
+    section {
+      margin: 40px 0;
+    }
+    h1, h2 {
+      margin: 10px 0;
+    }
+    .button {
+      background: white;
+      color: #ff0033;
+      padding: 10px 20px;
+      border-radius: 20px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>LCE RECORDS</h1>
+    <p>Le son de Brice L C E</p>
+  </header>
+
+  <main>
+    <section id="bio">
+      <h2>À propos</h2>
+      <p>Brice L C E est un artiste engagé et passionné, créant une musique authentique, forte et vibrante.</p>
+    </section>
+
+    <section id="musique">
+      <h2>Derniers sons</h2>
+      <p>Bientôt en ligne sur toutes les plateformes !</p>
+      <a href="#" class="button">Écouter maintenant</a>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Pour les collaborations ou bookings : bricelce@email.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 LCE RECORDS. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
